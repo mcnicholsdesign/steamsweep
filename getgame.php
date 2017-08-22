@@ -5,4 +5,5 @@
 	$number = rand(1,$max);
 	$game = $games[$number];
 	file_put_contents("thisweek.txt", $game);
+	echo "<p>$game</p>";
 ?>

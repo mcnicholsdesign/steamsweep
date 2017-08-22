@@ -102,7 +102,7 @@
 		<!-- This weeks game YouTube Trailer -->
 		<div class="YouTube">
 		<h3>This weeks game is <?php echo $game; ?></h3>
-		<iframe width="560" height="315" src="https://www.youtube.com/embed/hkidRykOGOA" frameborder="0" allowfullscreen></iframe>
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/oFDUkBNx23w" frameborder="0" allowfullscreen></iframe>
 		</div>
         <!-- First Featurette -->
         <div class="featurette" id="about">
